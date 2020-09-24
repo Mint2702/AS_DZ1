@@ -67,3 +67,13 @@ footer{
     margin-right: auto;
     line-height: 43px;
 }
+
+#pic{
+    margin-top: 40px;
+}
+
+#vid{
+    margin-top: 40px;
+    width: auto;
+    text-align: center;
+}
